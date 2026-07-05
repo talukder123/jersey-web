@@ -69,6 +69,7 @@
     border-radius: 8px;
     text-align: center;
     font-size: 18px;
+    background-color: white;
 }
 
 .img {
@@ -86,6 +87,7 @@
 }
 
 .about-section {
+    background-color: white;
     border: solid 1px;
     text-align: center;
     width: 60%;
@@ -178,4 +180,8 @@
 
 .shop-text {
     font-size: 25px;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
 }
