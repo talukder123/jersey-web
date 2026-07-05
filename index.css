@@ -71,10 +71,27 @@
     justify-content: center;
 }
 
-#banner {
+.hero-container {
     display: flex;
-    justify-content: center;
+    height: 400px;
+    border: 1px solid black;
 }
+
+.hero-text {
+    flex: 1;
+}
+
+.hero-banner {
+    display: flex;
+    border: 1px solid rebeccapurple;
+    justify-content: end;
+    flex: 1;
+}
+
+#hero-img {
+    height: 400px;
+}
+
 
 #collection {
     text-align: center;
